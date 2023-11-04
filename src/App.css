@@ -13,6 +13,9 @@
 }
 .inputform{
     padding: 50px;
+      display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .ititle{
     height: 40px;
@@ -110,7 +113,7 @@ h2{
     border:none;
 }
 .dbtn:hover{
-    border:3px solid #ff8a65;
+    border:2px solid #ff8a65;
 }
 .dd{
     background-color: white;
