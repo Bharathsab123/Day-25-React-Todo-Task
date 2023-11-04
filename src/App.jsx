@@ -5,7 +5,7 @@ import Filtertodo from './component/filter'
 import "./App.css/"
 
 function App() {
-   
+  document.title="My Todo" 
    
     const data=[{
         title : "Zen Task",
