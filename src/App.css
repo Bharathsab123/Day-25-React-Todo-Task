@@ -97,9 +97,10 @@ h2{
     height: 30px;
     width: 50px;
     margin: 10px;
+     border:none;
 }
 .ebtn:hover{
-    border:1px #80deea ;
+    border:1px solid #80deea ;
 }
 .dbtn{
     background-color: red;
@@ -109,7 +110,7 @@ h2{
     border:none;
 }
 .dbtn:hover{
-    border:1px #e34234;
+    border:1px solid #e34234;
 }
 .dd{
     background-color: white;
