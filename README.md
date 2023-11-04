@@ -13,3 +13,7 @@ By onclick on status it should show a dropdown for completed and not completed b
 All todos should be displayed in Card
 
 There should be filter to display status completed, not completed and both statuses
+
+# Deployment link
+
+/https://magical-griffin-efddc5.netlify.app/
