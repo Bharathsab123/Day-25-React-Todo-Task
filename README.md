@@ -16,4 +16,4 @@ There should be filter to display status completed, not completed and both statu
 
 # Deployment link
 
-/https://magical-griffin-efddc5.netlify.app/
+https://magical-griffin-efddc5.netlify.app
