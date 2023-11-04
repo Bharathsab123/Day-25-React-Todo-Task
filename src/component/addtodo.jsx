@@ -20,7 +20,7 @@ return(
         
         <input type="text" placeholder="Todo" className="ititle" value={todotitle} onChange={(e)=>settodotitle(e.target.value)}/>
         <input type="text" placeholder="Description" className="idescription" value={tododescription} onChange={(e)=>settododescription(e.target.value)}/>
-        <button className="abtn" onClick={addtododetails}>Add</button>
+        <button className="abtn" onClick={addtododetails}>Add Todo</button>
        
     </div>
 )
